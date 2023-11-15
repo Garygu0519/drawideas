@@ -1,0 +1,1188 @@
+<mxfile host="app.diagrams.net" modified="2023-11-15T07:33:21.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="lqQJa84xHnUZZd_ltfoq" version="22.1.1" type="github">
+  <diagram name="第 1 页" id="LCrmmQoWbCShWl46kARk">
+    <mxGraphModel dx="889" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="210" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-2" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-3" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="254" y="225" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-4" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="225" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-10" value="进入该界面分组默认不展开，都折叠" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="340" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="260" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-16" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-7" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-16" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-8" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-16" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-9" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-16" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="270" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-22" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-17" vertex="1" connectable="0">
+          <mxGeometry x="-10" y="60" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-18" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-19" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-20" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-21" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-87" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry x="166" y="4" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-88" value="del" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-22" vertex="1">
+          <mxGeometry x="166" y="26" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="210" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-24" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-25" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="684" y="225" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-26" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="225" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-27" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="260" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-28" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-27" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-29" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-27" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-30" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-27" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-31" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-27" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-33" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="500" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-34" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-33" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-35" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-33" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-36" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-33" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-37" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-33" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-44" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-33" vertex="1">
+          <mxGeometry x="160" y="6" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-51" value="del" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="528" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-52" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="310" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-52" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-39" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-52" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-40" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-52" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-41" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-52" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-42" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-52" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-53" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="370" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-53" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-55" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-53" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-56" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-53" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-57" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-53" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-58" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-53" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-59" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="430" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-59" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-61" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-59" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-62" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-59" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-63" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-59" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-64" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-59" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-65" value="展开某一分组" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;base=20;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="690" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-67" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-68" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="254" y="705" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-69" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="705" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-70" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="740" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-71" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-70" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-72" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-70" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-73" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-70" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-74" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-70" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-75" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="750" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-76" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-75" vertex="1" connectable="0">
+          <mxGeometry x="-10" y="60" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-77" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-76" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-78" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-76" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-79" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-76" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-80" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-76" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="940" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-82" value="新增分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-83" value="输入框" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="980" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-84" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1020" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-85" value="确定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1020" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-86" value="新建分组" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="340" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="690" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-90" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-91" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="679" y="705" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-92" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="705" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-93" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="535" y="740" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-94" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-93" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-95" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-93" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-96" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-93" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-97" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-93" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-98" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="545" y="750" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-99" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-98" vertex="1" connectable="0">
+          <mxGeometry x="-10" y="60" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-100" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-101" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-102" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-103" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-104" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="166" y="4" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-105" value="del" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="166" y="26" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="5" y="-10" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-107" value="删除分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="80" y="-4" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-108" value="需要删除分组的名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="60" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-109" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="33" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-110" value="确定" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-99" vertex="1">
+          <mxGeometry x="113" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-111" value="删除分组" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;base=20;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1140" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-113" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-114" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="254" y="1155" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-115" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1155" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-116" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="1190" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-117" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-116" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-118" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-116" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-119" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-116" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-120" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-116" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-121" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="1440" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-122" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry width="210" height="42.857142857142854" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-123" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry x="52" width="118" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-124" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry x="52" y="17.142857142857142" width="60" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-125" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry y="8.571428571428571" width="40" height="21.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-126" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry x="160" y="5.142857142857142" width="40" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry x="-10" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-149" value="更换" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry x="138" y="22.285714285714285" width="70" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-151" value="已选择 1 台云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-121" vertex="1">
+          <mxGeometry y="18" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-128" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="1240" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-129" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-128" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-130" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-128" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-131" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-128" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-132" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-128" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-133" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-128" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-134" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="1300" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-134" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-136" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-134" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-137" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-134" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-138" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-134" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-139" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-134" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-140" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="1360" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-140" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-142" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-140" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-143" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-140" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-144" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-140" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-145" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-140" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-146" value="选中云手机，可以多选" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="1140" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-153" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-154" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="679" y="1155" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-155" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1155" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-156" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="535" y="1190" width="211" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-157" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-156" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-158" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-156" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-159" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-156" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-160" value="不可展开" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-156" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-169" value="移入分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-156" vertex="1">
+          <mxGeometry x="175" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-161" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="545" y="1200" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-162" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-161" vertex="1" connectable="0">
+          <mxGeometry x="-10" y="60" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-163" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-162" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-164" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-162" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-165" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-162" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-166" value="不可展开" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-162" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-168" value="移入分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-162" vertex="1">
+          <mxGeometry x="170" y="10" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-170" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-149" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1410" as="sourcePoint" />
+            <mxPoint x="520" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="1390" />
+              <mxPoint x="450" y="1360" />
+              <mxPoint x="470" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1530" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-172" value="分组管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-173" value="新增分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="684" y="1545" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-174" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1545" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-175" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="1580" width="211" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-176" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-175" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-177" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-175" vertex="1">
+          <mxGeometry x="52" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-178" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-175" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-179" value="不可展开" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-175" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-180" value="移入分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-175" vertex="1">
+          <mxGeometry x="175" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-181" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="550" y="1590" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-182" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-181" vertex="1" connectable="0">
+          <mxGeometry x="-10" y="60" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-183" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-184" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="52" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-185" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="52" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-186" value="不可展开" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry y="10" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-187" value="移入分组" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="170" y="10" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="-5" y="-14" width="218" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-189" value="提示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-190" value="确认选择的 1 台云手机移入 **** 分组？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="56" y="35" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-191" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="29" y="75" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-192" value="确定" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-182" vertex="1">
+          <mxGeometry x="109" y="75" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-193" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.591;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-168" target="I60Zghpn9mq2xJWeLjNU-171" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1560" as="sourcePoint" />
+            <mxPoint x="600" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1560" />
+              <mxPoint x="680" y="1380" />
+              <mxPoint x="680" y="1440" />
+              <mxPoint x="666" y="1480" />
+              <mxPoint x="690" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-194" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-192" target="I60Zghpn9mq2xJWeLjNU-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1830" as="sourcePoint" />
+            <mxPoint x="40" y="1390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1720" />
+              <mxPoint x="490" y="1640" />
+              <mxPoint x="440" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="1970" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-213" value="选择云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="1980" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-215" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="1985" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-216" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="115" y="2020" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-217" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-216" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-218" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-216" vertex="1">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-219" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-216" vertex="1">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-248" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-216" vertex="1">
+          <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-249" value="折叠/展开" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-216" vertex="1">
+          <mxGeometry x="135" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-221" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="115" y="2270" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-222" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry width="210" height="42.857142857142854" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-223" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry x="52" width="118" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-224" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry x="52" y="17.142857142857142" width="60" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-225" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry y="8.571428571428571" width="40" height="21.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-226" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry x="160" y="5.142857142857142" width="40" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-227" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry x="-10" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-228" value="重启" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry x="138" y="22.285714285714285" width="70" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-229" value="已选择 1 台云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-221" vertex="1">
+          <mxGeometry y="18" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-230" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="115" y="2070" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-231" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-230" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-232" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-230" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-233" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-230" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-234" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-230" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-235" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-230" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-236" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="115" y="2130" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-237" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-236" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-238" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-236" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-239" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-236" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-240" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-236" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-241" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-236" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-242" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="115" y="2190" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-243" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-242" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-244" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-242" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-245" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-242" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-246" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-242" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-247" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-242" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-250" value="默认折叠状态" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="340" y="2010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-252" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1970" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-253" value="选择云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1980" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-254" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1985" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-255" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="2020" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-256" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-255" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-257" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-255" vertex="1">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-258" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-255" vertex="1">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-259" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-255" vertex="1">
+          <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-260" value="折叠/展开" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-255" vertex="1">
+          <mxGeometry x="135" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-261" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="2220" width="273" height="259.29" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-262" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry width="210" height="53.0958410407978" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-263" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="52" width="118" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-264" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="52" y="21.23833641631912" width="60" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-265" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry y="10.61916820815956" width="40" height="26.5479205203989" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-266" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="160" y="6.371500924895736" width="40" height="21.23833641631912" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-267" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="-10" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-269" value="重启云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="60" y="0.00025323713507674483" width="100" height="37.16708872855846" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-291" value="重启云手机能够完全关闭后台进程，释放内存和CPU资源，恢复运行速度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="1" y="31.860000000000127" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-276" value="" style="group" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1" connectable="0">
+          <mxGeometry x="52" y="-90" width="221" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-277" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="-52" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-278" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="-52" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-279" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="-8" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-280" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="67" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-281" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="130" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-268" value="重启" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-276" vertex="1">
+          <mxGeometry x="70" y="159.99983734121486" width="70" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-292" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-261" vertex="1">
+          <mxGeometry x="40" y="69.99983734121497" width="70" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-270" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="2070" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-271" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-270" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-272" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-270" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-273" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-270" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-274" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-270" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-275" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-270" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-293" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-228" target="I60Zghpn9mq2xJWeLjNU-267" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="2300" as="sourcePoint" />
+            <mxPoint x="900" y="2250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="2250" />
+              <mxPoint x="470" y="2250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-294" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="2440" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-295" value="选择云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="2450" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-296" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="2455" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-297" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="2490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-298" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-297" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-299" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-297" vertex="1">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-300" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-297" vertex="1">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-301" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-297" vertex="1">
+          <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-302" value="折叠/展开" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-297" vertex="1">
+          <mxGeometry x="135" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-303" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="2740" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-304" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry width="210" height="42.857142857142854" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-305" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry x="52" width="118" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-306" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry x="52" y="17.142857142857142" width="60" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-307" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry y="8.571428571428571" width="40" height="21.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-308" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry x="160" y="5.142857142857142" width="40" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-309" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry x="-10" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-310" value="恢复出厂设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry x="130" y="22.29" width="78" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-311" value="已选择 1 台云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-303" vertex="1">
+          <mxGeometry y="18" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-312" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="2540" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-313" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-312" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-314" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-312" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-315" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-312" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-316" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-312" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-317" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-312" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-318" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="2600" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-319" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-318" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-320" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-318" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-321" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-318" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-322" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-318" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-323" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-318" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-324" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="2660" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-325" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-324" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-326" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-324" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-327" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-324" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-328" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-324" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-329" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-324" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-330" value="默认折叠状态" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="345" y="2480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-331" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="2440" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-332" value="选择云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="615" y="2450" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-333" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2455" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-334" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="545" y="2490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-335" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-334" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-336" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-334" vertex="1">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-337" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-334" vertex="1">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-338" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-334" vertex="1">
+          <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-339" value="折叠/展开" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-334" vertex="1">
+          <mxGeometry x="135" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-340" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2690" width="210" height="53.0958410407978" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-341" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="597" y="2690" width="118" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-342" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="597" y="2711.2383364163193" width="60" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-343" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2700.6191682081594" width="40" height="26.5479205203989" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-344" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="705" y="2696.371500924896" width="40" height="21.23833641631912" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-345" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="2690" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-346" value="恢复出厂设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="2690.000253237135" width="100" height="37.16708872855846" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-347" value="恢复出厂设置将清除云手机上的所有数据，建议谨慎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="546" y="2721.86" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-348" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2600" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-349" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-350" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="589" y="2615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-351" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="664" y="2620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-352" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="727" y="2615" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-353" value="恢复出厂设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2760" width="77" height="31.86" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-354" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579" y="2759.999837341215" width="70" height="31.85750462447868" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-355" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="545" y="2540" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-356" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-355" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-357" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-355" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-358" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-355" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-359" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-355" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-360" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-355" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-361" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-310" target="I60Zghpn9mq2xJWeLjNU-345" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="2770" as="sourcePoint" />
+            <mxPoint x="905" y="2720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="2720" />
+              <mxPoint x="475" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-362" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="109" y="2890" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-363" value="选择云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="189" y="2900" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-364" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="2905" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-365" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="119" y="2940" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-366" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-365" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-367" value="默认分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-365" vertex="1">
+          <mxGeometry x="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-368" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-365" vertex="1">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-369" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-365" vertex="1">
+          <mxGeometry x="175" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-370" value="折叠/展开" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-365" vertex="1">
+          <mxGeometry x="135" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-371" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="119" y="3190" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-372" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry width="210" height="42.857142857142854" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-373" value="自定义分组（名称）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry x="52" width="118" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-374" value="共 ** 台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry x="52" y="17.142857142857142" width="60" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-375" value="展开/折叠" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry y="8.571428571428571" width="40" height="21.428571428571427" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-376" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry x="160" y="5.142857142857142" width="40" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-377" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry x="-10" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-378" value="上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry x="130" y="22.29" width="78" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-379" value="已选择 1 台云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I60Zghpn9mq2xJWeLjNU-371" vertex="1">
+          <mxGeometry y="18" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-380" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="119" y="2990" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-381" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-380" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-382" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-380" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-383" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-380" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-384" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-380" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-385" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="I60Zghpn9mq2xJWeLjNU-380" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-386" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="119" y="3050" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-387" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-386" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-388" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-386" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-389" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-386" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-390" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-386" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-391" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-386" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-392" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="119" y="3110" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-393" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-392" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-394" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-392" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-395" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-392" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-396" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-392" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-397" value="check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-392" vertex="1">
+          <mxGeometry x="182" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-398" value="默认折叠状态" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="344" y="2930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-429" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-378" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854" y="3220" as="sourcePoint" />
+            <mxPoint x="534" y="3195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="484" y="3170" />
+              <mxPoint x="474" y="3170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-431" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="532.5" y="2890" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-432" value="我们已有的上传管理界面上，增加已选择上传的云手机list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="615" y="2940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-434" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="550" y="3020" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-435" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-434" vertex="1">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-436" value="已选择云手机（数量）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-434" vertex="1">
+          <mxGeometry x="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-437" value="G12；K23；（选中云手机tittle）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="I60Zghpn9mq2xJWeLjNU-434" vertex="1">
+          <mxGeometry x="10" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-439" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-434" vertex="1">
+          <mxGeometry x="163" y="7" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-440" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="531" y="3330" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-441" value="我们已有的上传管理界面上，增加已选择上传的云手机list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="613.5" y="3380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-447" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="531" y="3550" width="229" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-448" value="已选云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="612.5" y="3550" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-449" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="3580" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-450" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-449" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-451" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-449" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-452" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-449" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-453" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-449" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-455" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="540" y="3630" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-456" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-455" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-457" value="图标（设备类型）" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="I60Zghpn9mq2xJWeLjNU-455" vertex="1">
+          <mxGeometry y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-458" value="云手机名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-455" vertex="1">
+          <mxGeometry x="44" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-459" value="剩余时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="I60Zghpn9mq2xJWeLjNU-455" vertex="1">
+          <mxGeometry x="119" y="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-461" value="关闭" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="3554.29" width="55" height="25.71" as="geometry" />
+        </mxCell>
+        <mxCell id="I60Zghpn9mq2xJWeLjNU-462" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.413;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I60Zghpn9mq2xJWeLjNU-431" target="I60Zghpn9mq2xJWeLjNU-440" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="3560" as="sourcePoint" />
+            <mxPoint x="900" y="3510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="3270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
