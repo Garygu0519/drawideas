@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2023-11-24T09:04:33.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5R1GopK25NlUPUr8Fx7b" version="22.1.3" type="github">
+  <diagram name="第 1 页" id="LCrmmQoWbCShWl46kARk">
+    <mxGraphModel dx="2056" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="30" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="80" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-19" value="支付中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-20" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;若完成支付，点击下方【已完成支付】刷新该订单。&lt;/div&gt;&lt;div&gt;若未完成支付，可以点击【取消支付】关闭本次支付。&lt;/div&gt;&lt;div&gt;您也可以前往“我的”-&amp;gt;&quot;订单中心&quot;查看订单状态。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="70" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-21" value="已完成支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-22" value="取消支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="360" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-21" target="RjTAVXE4lP4E8VJI7eZ7-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="620" as="sourcePoint" />
+            <mxPoint x="320" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="440" />
+              <mxPoint x="440" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-30" value="套餐页面增加&lt;br&gt;loading动画，后台刷新支付订单" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-32" value="到现在的&lt;br&gt;支付成功的弹框UI" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="600" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.664;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-23" target="RjTAVXE4lP4E8VJI7eZ7-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246" y="410" as="sourcePoint" />
+            <mxPoint x="540" y="392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-34" value="刷新到支付成功结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.696;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-23" target="RjTAVXE4lP4E8VJI7eZ7-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="470" as="sourcePoint" />
+            <mxPoint x="470" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-39" value="失败或为查询到结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-40" value="微信：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-41" value="支付宝：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-42" value="&lt;h1&gt;支付宝的会通知是否取消支付&lt;/h1&gt;&lt;div&gt;所以支付宝支付时，支付成功直接到现在的支付成功弹窗；&lt;/div&gt;&lt;div&gt;如果用户在支付宝里放弃支付，返回后直接到套餐页面&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="970" width="190" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
