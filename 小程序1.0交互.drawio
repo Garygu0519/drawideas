@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" modified="2023-11-28T00:52:04.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="IYAccIw68vbDXwu6nbEG" version="22.1.3" type="github">
+  <diagram name="第 1 页" id="LCrmmQoWbCShWl46kARk">
+    <mxGraphModel dx="859" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-21" value="默认微信登陆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="205" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-22" value="可以使用手机号登陆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="300" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-40" value="登陆/注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-43" value="&lt;h1&gt;说明：&lt;/h1&gt;&lt;div&gt;1、如果是新微信号或手机号就注册&lt;/div&gt;&lt;div&gt;2、新微信号或判断该微信号没有绑定手机号需要接着走手机号绑定逻辑&lt;/div&gt;&lt;div&gt;2.1如果提供绑定的手机号已经绑定了其他微信号提示用户使用新手机号绑定，非强制绑定——但是不能进主界面，可以进“我的界面”，也能购买，购买成功后也不能进主界面，进主界面前必须绑定手机号；&lt;/div&gt;&lt;div&gt;3.如果手机号登陆或注册时发现没有绑定微信号，提示用户绑定——非强制，流程可以继续&lt;/div&gt;&lt;div&gt;3.1如果新手机号，走手机号验证码注册流程；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="196" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-44" value="手机号绑定页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-45" value="主界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-47" value="续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="565" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-48" value="刷新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="565" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-49" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1.0版本默认九宫格布局，&lt;br&gt;不能调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-50" value="预览图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128" y="620" width="82" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-51" value="购买入口&lt;br&gt;（一直存在，在最后位置显示）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-53" value="显示元素：&lt;br&gt;设备类型&lt;br&gt;+设备title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="735" width="72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-54" value="setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-51" target="RjTAVXE4lP4E8VJI7eZ7-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="870" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-56" value="购买界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298" y="810" as="sourcePoint" />
+            <mxPoint x="630" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RjTAVXE4lP4E8VJI7eZ7-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="870" as="sourcePoint" />
+            <mxPoint x="520" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-60" value="点击进入云手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="685" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-62" value="续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="555" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-63" value="刷新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="555" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-64" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1.0版本默认九宫格布局，&lt;br&gt;不能调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="590" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-65" value="预览图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="610" width="82" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-66" value="购买入口&lt;br&gt;（一直存在，在最后位置显示）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-67" value="显示元素：&lt;br&gt;设备类型&lt;br&gt;+设备title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="725" width="72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-68" value="setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="780" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="730" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-70" value="和安卓版本点击设置后弹出浮层类似的布局、信息和操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="750" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-71" value="重启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="890" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-72" value="恢复出厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-73" value="授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-75" value="换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="890" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-76" value="修改名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="724" y="890" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-77" value="刷新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-78" value="续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-80" value="更多" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="890" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="900" as="sourcePoint" />
+            <mxPoint x="1020" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-82" value="更多功能请下载移动端应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="725" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-83" value="弹框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-84" value="上传文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="840" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-85" value="批量操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="840" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-86" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="840" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-87" value="云手机界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1050" width="280" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1110" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-96" value="云手机实例界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1109" width="240" height="381" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-97" value="刷新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1114" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-98" value="旋转90" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1148" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-99" value="音量&lt;br&gt;+" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1203" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-100" value="音量&lt;br&gt;-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1258" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-101" value="剪贴板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1313" width="25" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-102" value="切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1364" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-103" value="退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1455" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjTAVXE4lP4E8VJI7eZ7-104" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1410" width="25" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
