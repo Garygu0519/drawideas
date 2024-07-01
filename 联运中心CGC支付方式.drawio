@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T02:26:42.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="ABqMGF1eqf65VYWsHAt6" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-01T07:04:34.545Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="Yt38IE-Csuuhkn_jajzK" version="24.2.1" type="github" pages="3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,6 +424,119 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t3a5TBuMt2a9OxgPycDb" name="第 2 页">
+    <mxGraphModel dx="881" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AE0i99tfwqNFc9IFZ63p-43" target="AE0i99tfwqNFc9IFZ63p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-3" value="确认订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-4" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;需充值 &lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 17px;&quot;&gt;4 C币&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;帐户余额抵扣 2C币&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="589" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AE0i99tfwqNFc9IFZ63p-5" target="AE0i99tfwqNFc9IFZ63p-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-5" value="充值并购买" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="306" y="471" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-6" value="商品名称：600宝石" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AE0i99tfwqNFc9IFZ63p-11">
+          <mxGeometry x="2" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-7" value="商品价格：6 ¥&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AE0i99tfwqNFc9IFZ63p-11">
+          <mxGeometry x="-18" y="16" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="516" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-8" value="实付款：6 C币" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AE0i99tfwqNFc9IFZ63p-12">
+          <mxGeometry width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-10" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 7px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;注：1C币 = 1 元人民币&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="AE0i99tfwqNFc9IFZ63p-12">
+          <mxGeometry x="17" y="16" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-13" value="同意&lt;u&gt;《C币用户协议》&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="569" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="578" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="270" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-18" value="C币充值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AE0i99tfwqNFc9IFZ63p-20" target="AE0i99tfwqNFc9IFZ63p-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-20" value="充值并购买" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="720" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-30" value="返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="456" width="60" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-31" value="关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="456" width="60" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-32" value="至少还需要充值 &lt;font color=&quot;#ff3333&quot;&gt;4C币&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="489" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-33" value="帐户余额 2C币" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="489" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-34" value="可选择不同档位多次充值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="516" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-35" value="6 C币&lt;div&gt;¥ 6&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="550" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-36" value="36 C币&lt;div&gt;¥ 36&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="550" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-37" value="299 C币&lt;div&gt;¥ 200 &lt;strike&gt;原价¥299&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-38" value="599 C币&lt;div&gt;¥ 450 &lt;strike&gt;原价¥599&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-39" value="2199 C币&lt;div&gt;¥ 1500&amp;nbsp;&lt;strike&gt;原价¥2199&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="660" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-40" value="5999 C币&lt;div&gt;¥ 4500 &lt;strike&gt;原价¥5999&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="660" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-41" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;支付金额&amp;nbsp;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 17px;&quot;&gt;450 ¥&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;充值 599 C币&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="620" y="710" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-43" value="游戏中点击购买道具&amp;amp;商品" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-45" value="微端弹出浮层&lt;div&gt;根据游戏横版还是竖版弹出不同样式浮层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="491" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-46" value="@UI需要设计横版和竖版两种样式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-48" value="打开AppStore进行相应的充值" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AE0i99tfwqNFc9IFZ63p-50" value="需求：&lt;div&gt;1、套餐是运营配置，有配置后台&lt;/div&gt;&lt;div&gt;配置内容为：原价、实际价格、获得C币数量&lt;/div&gt;&lt;div&gt;2、每次微端上架appstore时，需要根据配置的套餐数量和金额同步在AppStore后台进行配置&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="539" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Hj9GWK8S18XUbKxA_OXR" name="第 3 页">
     <mxGraphModel dx="1093" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
