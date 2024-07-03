@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T02:35:16.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="lKIloqh5mI9jyp9hCX18" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-03T15:12:11.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="S4vMBDECs9wPESVGYGfn" version="24.6.4" type="github" pages="3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1151" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t3a5TBuMt2a9OxgPycDb" name="第 2 页">
-    <mxGraphModel dx="1482" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1365" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,10 +573,32 @@
           <mxGeometry x="225" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lGrG7_RGDEuNopo-WkF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5lGrG7_RGDEuNopo-WkF-4" target="AE0i99tfwqNFc9IFZ63p-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="910" />
+              <mxPoint x="490" y="910" />
+              <mxPoint x="490" y="720" />
+              <mxPoint x="415" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5lGrG7_RGDEuNopo-WkF-4" value="点击购买畅玩卡&lt;div&gt;场景1:余额足够本次购买&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyERv2BaZnc2luywLTgb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1285" width="250" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yyERv2BaZnc2luywLTgb-2" value="个人中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyERv2BaZnc2luywLTgb-3" value="C币余额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyERv2BaZnc2luywLTgb-4" value="充值明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1375" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yyERv2BaZnc2luywLTgb-5" value="消费明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1375" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
