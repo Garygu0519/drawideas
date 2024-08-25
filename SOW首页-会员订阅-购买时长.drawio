@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.6" pages="2">
   <diagram name="第 1 页" id="GjRQRQxjSb0w8Wipvcud">
     <mxGraphModel dx="2019" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,6 +282,17 @@
         </mxCell>
         <mxCell id="1wTuDXeft89T_cNOT2cx-127" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;关于首次进入SOW&lt;/h1&gt;&lt;p&gt;首次进入后会送用户金币，让用户体验试玩，和现在云电脑流程一致：&lt;/p&gt;&lt;p&gt;因为海外用户可能大概率不明白金币的含义已经按需扣费，所以通过首次进入送金币的行为引导用户使用；当使用后退出云实例，再引导用户进入会员订阅页面——可能这种方式对于用户是比较熟悉的，这种方式让用户能知道除了计时扣费也有订阅模式供用户选择。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1430" width="350" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V3XuWBgh8K87v_INLltA" name="官网">
+    <mxGraphModel dx="1500" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nMudm6_-vdTaGr4dAj43-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="1040" height="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
