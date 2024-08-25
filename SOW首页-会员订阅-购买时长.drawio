@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7" pages="3">
   <diagram name="第 1 页" id="GjRQRQxjSb0w8Wipvcud">
     <mxGraphModel dx="2019" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,6 +282,101 @@
         </mxCell>
         <mxCell id="1wTuDXeft89T_cNOT2cx-127" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;关于首次进入SOW&lt;/h1&gt;&lt;p&gt;首次进入后会送用户金币，让用户体验试玩，和现在云电脑流程一致：&lt;/p&gt;&lt;p&gt;因为海外用户可能大概率不明白金币的含义已经按需扣费，所以通过首次进入送金币的行为引导用户使用；当使用后退出云实例，再引导用户进入会员订阅页面——可能这种方式对于用户是比较熟悉的，这种方式让用户能知道除了计时扣费也有订阅模式供用户选择。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1430" width="350" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OdGK2VsyXkTmvrCJ7TAg" name="官网">
+    <mxGraphModel dx="1035" dy="940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="232" width="647" height="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="232" width="645" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR1T7JtIVLn1NEjNK0DJ-3" target="YR1T7JtIVLn1NEjNK0DJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-3" value="logo&lt;div&gt;3A Now&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="238" width="111" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR1T7JtIVLn1NEjNK0DJ-4" target="YR1T7JtIVLn1NEjNK0DJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-4" value="&amp;nbsp;Download" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="241" width="121" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-5" value="滚动到下一屏后，下载按钮需要悬浮到右上角" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="752" y="252" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-7" value="可点击，点击后回到home页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="63" y="159" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR1T7JtIVLn1NEjNK0DJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.5" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-9" value="Game list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="253.75" width="105" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR1T7JtIVLn1NEjNK0DJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322.66666666666674" y="206.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-10" value="Help Center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="253.75" width="105" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-11" value="Home页：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="26" y="105" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-13" value="导航栏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="226" y="169" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="295" width="647" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;该区域包含内容：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1、产品slogan：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;High performance cloud computer for game&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2、适合slogan的背景图设计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、不同平台设备安装包下载按钮&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="321" width="257" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR1T7JtIVLn1NEjNK0DJ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25.33333333333337" y="446.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-17" value="Download for Mac&lt;div&gt;（Supported MAC and Intel chips）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="433" width="105" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-20" value="根据浏览器UA做识别：&lt;br&gt;1、是否MAC，是否intel芯片或mac芯片为用户适配正确的包下载地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-143" y="368" width="169" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-22" value="Download for Win" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="448" width="105" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Best Performance in Cloud Console&lt;/h1&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Provide You The Whole PC Desktop Running Environment&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; For All Your Games, Your Pro Applications,&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Your Devices, RTX On&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="525" width="560" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-25" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="667" width="115.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Top RTX 4090 GPU&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;I&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;ndustry-leading cloud gaming technology, fully support for Mac and Windows, less than 80M application immediately changes your device with top super GPU and supports to play 1800+ games without installation;&lt;/span&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;There is no other option for enjoying the beauty of the Ninth Art, all kinds of games on Steam/EPIC/Ubisoft/Xbox/EA are fully supported;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;*The game needs to be purchased by the user. This software only provides cloud gaming services.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="727" width="200.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-27" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="667" width="115.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;8K Resolution Quality&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;Wide color gamut for pure light and shadow, up to 8K ultra-high definition resolution, supporting ray tracing&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Technology;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;Perfectly adapting to all types of displays&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;even including ultra-wide screen, fully&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;supporting resolution and frame rate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;adaptive&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Supporting HDR10, which presents vivid&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;color and Ray-interacting&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Refreshing from 60 to 360FPS releases&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;full potential of high-refresh monitors&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="727" width="200.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-29" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="667" width="115.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;A perfect partner for Apple users&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;chip types (intel x86 chips and Apple M series&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;chips).&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pixel-level display adapts to Retina&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;display, and even for Notch screen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Macbooks and iPads instantly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;become top gaming laptops, XDR&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;displays are perfectly compatible to AAA games.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;Provides a fantastic productivity tool&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;to switch macOS to Windows with&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;top GPU&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ability&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="727" width="200.5" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
