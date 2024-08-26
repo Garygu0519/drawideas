@@ -287,7 +287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OdGK2VsyXkTmvrCJ7TAg" name="官网">
-    <mxGraphModel dx="2121" dy="994" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="799" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,7 +366,7 @@
         <mxCell id="YR1T7JtIVLn1NEjNK0DJ-22" value="Download for Win" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="448" width="105" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Best Performance in Cloud Console&lt;/h1&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Provide You The Whole PC Desktop Running Environment&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; For All Your Games, Your Pro Applications,&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Your Devices, RTX On&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="YR1T7JtIVLn1NEjNK0DJ-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;High performance cloud computer for game&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Provide You The Whole PC Desktop Running Environment&amp;nbsp;&lt;/p&gt;&lt;p&gt;For All Your Games, Your Pro Applications,&amp;nbsp;&lt;/p&gt;&lt;p&gt;Your Devices, RTX On&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="221" y="520" width="560" height="144" as="geometry" />
         </mxCell>
         <mxCell id="YR1T7JtIVLn1NEjNK0DJ-25" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -417,7 +417,7 @@
         <mxCell id="2KgJUHiLZKx8XcfDqyV0-7" value="点击导航到“Games”页，在原页面打开" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="658" y="1213" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2KgJUHiLZKx8XcfDqyV0-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Only For Steps to PLAY your Games&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="2KgJUHiLZKx8XcfDqyV0-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Only 4 Steps to PLAY your Games&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="213.5" y="1275" width="560" height="125" as="geometry" />
         </mxCell>
         <mxCell id="2KgJUHiLZKx8XcfDqyV0-9" value="Step1:&lt;div&gt;Download 3A APP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
