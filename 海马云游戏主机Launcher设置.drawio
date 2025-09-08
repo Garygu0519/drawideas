@@ -46,6 +46,96 @@
         <mxCell id="A0AeQe68lzj6-sx0fYqF-14" value="Copyright lsdfm&#39;lddf&#39;gkdflgdfg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="435" width="380" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="660" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-16" value="关于" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-17" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-18" value="升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-19" value="音量" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-29" value="50%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="712.5" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-30" value="—" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-31" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="707.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="930" width="660" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-34" value="关于" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-35" value="网络" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-36" value="升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-37" value="音量" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-41" value="状态：网络已连接｜未插网线｜网络异常（无法连接我们服务器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1050" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-42" value="自动获取IP地址（推荐）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1110" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-43" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1112.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-44" value="使用下面的IP地址" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1144" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-45" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1146.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-46" value="IP地址：" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-47" value="子网掩码：" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1213" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-48" value="默认网关：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1248" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-50" value="自动获取DNS服务器地址（推荐）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1290" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-51" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1292.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-52" value="使用下面的DNS&#39;地址" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1324" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-53" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1326.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1180" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1218" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1253" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1360" width="430" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A0AeQe68lzj6-sx0fYqF-58" value="DNS地址：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1355" width="90" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
